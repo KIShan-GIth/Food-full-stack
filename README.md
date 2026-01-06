@@ -64,8 +64,6 @@ text
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com/)
 
-**Capgemini 5G RAN Training Portfolio Project** – Production-ready food delivery platform with seamless payments & AWS deployment.
-
 </div>
 
 ## ✨ Features
@@ -109,32 +107,12 @@ text
 🔗 **Backend APIs:** [Swagger Docs - Live]
 🔗 **Admin:** [Dashboard URL]
 
-## 🚀 Quick Start
 
-### 1. Clone & Backend (Spring Boot)
-```bash
-cd foodiesapi
-mvn clean install
-mvn spring-boot:run  # http://localhost:8080
-2. Frontend (React)
-bash
-cd foodies
-npm install
-npm start  # http://localhost:3000
-3. MongoDB
-text
-mongodb://localhost:27017/food_delivery
-📱 Screenshots
 Home - Restaurant Discovery	Cart & RazorPay Checkout
 Home	Cart <img width="1902" height="967" alt="Screenshot 2026-01-05 170014" src="https://github.com/user-attachments/assets/0a88214c-a2f9-4dce-9eab-b2e626069117" />
-
 Admin Dashboard	Order Tracking <img width="1885" height="905" alt="Screenshot 2026-01-05 165915" src="https://github.com/user-attachments/assets/04c7cb6f-9b16-4286-9bb2-910a1e1085bd" />
 
-Admin	Tracking
-📊 Project Stats
-GitHub stars
-GitHub forks
-GitHub issues
+
 
 🤝 Contributing
 text
