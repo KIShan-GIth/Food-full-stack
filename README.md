@@ -41,10 +41,6 @@ Status
 ✅ RazorPay payments
 🔄 AWS deployment next
 
-Live demo: [Add URL after deploy]
-
-maki it look briliant add phtos differnet icons make brillat yaar are dumb or waht i want to show case this so make it look brillaint do not give this type of setup Setup & Run
-text
 # Backend
 cd foodiesapi
 mvn spring-boot:run
